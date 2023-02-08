@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Aysel\source\repos\Proiect_poo_Batcoveanu_Aysel\Source.cpp(506,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aysel\source\repos\Proiect_poo_Batcoveanu_Aysel\Source.cpp(864,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Aysel\source\repos\Proiect_poo_Batcoveanu_Aysel\Source.cpp(998,20): warning C4018: '<': signed/unsigned mismatch
+  Proiect_poo_Batcoveanu_Aysel.vcxproj -> C:\Users\Aysel\source\repos\Proiect_poo_Batcoveanu_Aysel\Debug\Proiect_poo_Batcoveanu_Aysel.exe
